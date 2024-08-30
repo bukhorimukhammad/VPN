@@ -17,10 +17,10 @@ locality=none
 organization=none
 organizationalunit=TMSC
 commonname=none
-email=agunxz@themoon.my,id
+email=bukhorimukhammad@gmail.com
 
 # simple password minimal
-wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/kanghory/VPN/main/Insshws/password.txt"
+wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/Insshws/password.txt"
 chmod +x /etc/pam.d/common-password
 
 # go to root
