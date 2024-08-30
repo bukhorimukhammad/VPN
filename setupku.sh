@@ -106,10 +106,10 @@ wget -q -O fix.sh https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/In
 
 #exp
 cd /usr/bin
-wget -O xp "https://raw.githubusercontent.com/kanghory/VPN/main/xp.sh"
+wget -O xp "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/xp.sh"
 chmod +x xp
 sleep 1
-wget -q -O /usr/bin/notramcpu "https://raw.githubusercontent.com/kanghory/VPN/main/Finaleuy/notramcpu" && chmod +x /usr/bin/notramcpu
+wget -q -O /usr/bin/notramcpu "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/notramcpu" && chmod +x /usr/bin/notramcpu
 
 cd
 #remove log 
