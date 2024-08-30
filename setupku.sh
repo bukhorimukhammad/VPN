@@ -102,7 +102,7 @@ echo -e "$green      Install Websocket              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget -q -O fix.sh https://raw.githubusercontent.com/kanghory/VPN/main/Insshws/fix.sh && chmod +x fix.sh && ./fix.sh
+wget -q -O fix.sh https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/Insshws/fix.sh && chmod +x fix.sh && ./fix.sh
 
 #exp
 cd /usr/bin
