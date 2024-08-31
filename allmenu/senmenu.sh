@@ -3,39 +3,39 @@
 echo -e "${GREEN}Config Data${NC}"
 
 #wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kanghory/VPN/main/menu.sh"
-wget -q -O /usr/bin/add-ws "https://raw.githubusercontent.com/kanghory/VPN/main/add-ws.sh"
-wget -q -O /usr/bin/add-ssws "https://raw.githubusercontent.com/kanghory/VPN/main/add-ssws.sh"
+wget -q -O /usr/bin/add-ws "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/add-ws-xray.sh"
+wget -q -O /usr/bin/add-ssws "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main//allmenu/add-ssws.sh"
 #wget -q -O /usr/bin/add-socks "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/add-socks.sh"
-wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/kanghory/VPN/main/add-vless.sh"
-wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/kanghory/VPN/main/add-tr.sh"
-wget -q -O /usr/bin/add-trgo "https://raw.githubusercontent.com/kanghory/VPN/main/add-trgo.sh"
-wget -q -O /usr/bin/autoreboot "https://raw.githubusercontent.com/kanghory/VPN/main/autoreboot.sh"
-wget -q -O /usr/bin/restarts "https://raw.githubusercontent.com/kanghory/VPN/main/restarts.sh"
-wget -q -O /usr/bin/tendang "https://raw.githubusercontent.com/kanghory/VPN/main/tendang.sh"
-wget -q -O /usr/bin/clearlog "https://raw.githubusercontent.com/kanghory/VPN/main/clearlog.sh"
-wget -q -O /usr/bin/running "https://raw.githubusercontent.com/kanghory/VPN/main/running.sh"
-wget -q -O /usr/bin/cek-trafik "https://raw.githubusercontent.com/kanghory/VPN/main/cek-trafik.sh"
-wget -q -O /usr/bin/cek-speed "https://raw.githubusercontent.com/kanghory/VPN/main/speedtes_cli.py"
-wget -q -O /usr/bin/cek-bandwidth "https://raw.githubusercontent.com/kanghory/VPN/main/cek-bandwidth.sh"
-wget -q -O /usr/bin/cek-ram "https://raw.githubusercontent.com/kanghory/VPN/main/ram.sh"
-wget -q -O /usr/bin/limit-speed "https://raw.githubusercontent.com/kanghory/VPN/main/limit-speed.sh"
-wget -q -O /usr/bin/menu-vless "https://raw.githubusercontent.com/kanghory/VPN/main/menu-vless.sh"
-wget -q -O /usr/bin/menu-vmess "https://raw.githubusercontent.com/kanghory/VPN/main/menu-vmess.sh"
+wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/add-vless.sh"
+wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/add-tr.sh"
+wget -q -O /usr/bin/add-trgo "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/add-trgo.sh"
+wget -q -O /usr/bin/autoreboot "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/autoreboot.sh"
+wget -q -O /usr/bin/restarts "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/restarts.sh"
+wget -q -O /usr/bin/tendang "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/tendang.sh"
+wget -q -O /usr/bin/clearlog "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/clearlog.sh"
+wget -q -O /usr/bin/running "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/running.sh"
+wget -q -O /usr/bin/cek-trafik "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/cek-trafik.sh"
+wget -q -O /usr/bin/cek-speed "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/speedtes_cli.py"
+wget -q -O /usr/bin/cek-bandwidth "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/cek-bandwidth.sh"
+wget -q -O /usr/bin/cek-ram "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/ram.sh"
+wget -q -O /usr/bin/limit-speed "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/limit-speed.sh"
+wget -q -O /usr/bin/menu-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menu-vless.sh"
+wget -q -O /usr/bin/menu-vmess "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menu-vmess.sh"
 #wget -q -O /usr/bin/menu-socks "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-socks.sh"
-wget -q -O /usr/bin/menu-ss "https://raw.githubusercontent.com/kanghory/VPN/main/menu-ss.sh"
-wget -q -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/kanghory/VPN/main/menu-trojan.sh"
+wget -q -O /usr/bin/menu-ss "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menu-ss.sh"
+wget -q -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menu-trojan.sh"
 #wget -q -O /usr/bin/menu-trgo "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-trgo.sh"
-wget -q -O /usr/bin/menun-ssh "https://raw.githubusercontent.com/kanghory/VPN/main/menun-ssh.sh"
+wget -q -O /usr/bin/menun-ssh "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menun-ssh.sh"
 #wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-bckp-telegram.sh"
-wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/kanghory/VPN/main/menu-backup.sh"
-wget -q -O /usr/bin/slowdns "https://raw.githubusercontent.com/kanghory/autoscript-ssh-slowdns/main/slowdns.sh"
-wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/kanghory/VPN/main/usernew.sh"
-wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kanghory/VPN/main/menu.sh"
-wget -q -O /usr/bin/wbm "https://raw.githubusercontent.com/kanghory/VPN/main/webmin.sh"
-wget -q -O /usr/bin/changer "https://raw.githubusercontent.com/kanghory/VPN/main/changer.sh"
-wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/kanghory/VPN/main/xp.sh"
-wget -q -O /usr/bin/addhost  "https://raw.githubusercontent.com/kanghory/VPN/main/addhost.sh"
-wget -q -O /usr/bin/genssl  "https://raw.githubusercontent.com/kanghory/VPN/main/genssl.sh"
+wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menu-backup.sh"
+wget -q -O /usr/bin/slowdns "https://raw.githubusercontent.com/bukhorimukhammad/autoscript-ssh-slowdns/main/slowdns.sh"
+wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/usernew-ssh.sh"
+wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menu.sh"
+wget -q -O /usr/bin/wbm "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/webmin.sh"
+wget -q -O /usr/bin/changer "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/changer.sh"
+wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/xp.sh"
+wget -q -O /usr/bin/addhost  "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/addhost.sh"
+wget -q -O /usr/bin/genssl  "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/genssl.sh"
 wget -q -O /usr/bin/fix "https://raw.githubusercontent.com/kanghory/VPN/main/cf.sh"
 wget -q -O /usr/bin/trialssh "https://raw.githubusercontent.com/kanghory/VPN/main/trialssh.sh"
 #wget -q -O /usr/bin/Finaleuy "https://raw.githubusercontent.com/kanghory/VPN/main/Finaleuy/bot.sh"
@@ -51,7 +51,7 @@ wget https://raw.githubusercontent.com/kanghory/VPN/main/backup/set-br.sh
 bash set-br.sh
 chmod +x /usr/bin/menu-backup
 #chmod +x /usr/bin/menu
-chmod +x /usr/bin/add-ws
+chmod +x /usr/bin/add-ws-xray
 chmod +x /usr/bin/add-ssws
 #chmod +x /usr/bin/add-socks
 chmod +x /usr/bin/add-vless
@@ -60,7 +60,7 @@ chmod +x /usr/bin/addl
 chmod +x /usr/bin/cekl
 chmod +x /usr/bin/dell
 chmod +x /usr/bin/renel
-chmod +x /usr/bin/usernew
+chmod +x /usr/bin/usernew-ssh
 chmod +x /usr/bin/autoreboot
 chmod +x /usr/bin/addhost
 chmod +x /usr/bin/genssl
