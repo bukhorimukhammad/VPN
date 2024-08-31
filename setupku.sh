@@ -124,19 +124,19 @@ echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━�
 echo -e "$green      Install Xray              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
-wget -q -O ins-xray.sh https://raw.githubusercontent.com/kanghory/VPN/main/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
+wget -q -O ins-xray.sh https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/xray/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
 sleep 1
-wget -q -O senmenu.sh https://raw.githubusercontent.com/kanghory/VPN/main/senmenu.sh && chmod +x senmenu.sh && ./senmenu.sh
+wget -q -O senmenu.sh https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/senmenu.sh && chmod +x senmenu.sh && ./senmenu.sh
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green      Install slowdns              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
-wget -q -O slowdns.sh https://raw.githubusercontent.com/kanghory/VPN/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget -q -O slowdns.sh https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green      Install openvpn              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
-wget -q -O vpn.sh https://raw.githubusercontent.com/fisabiliyusri/Mantap/main/ssh/vpn.sh && chmod 777 vpn.sh && ./vpn.sh
+wget -q -O vpn.sh https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/autoscript-ssh-slowdns-main/open-vpn.sh && chmod 777 open-vpn.sh && ./open-vpn.sh
 #cronjob
 #echo "30 * * * * root removelog" >> /etc/crontab
 
@@ -182,7 +182,7 @@ rm -f setupku.sh
 rm -f xraymode.sh
 rm -f slowdns.sh
 
-echo "===============-[ Kang Hory VPN PREMIUM ]-================"
+echo "===============-[ HORXY VPN PREMIUM ]-================"
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -224,7 +224,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Credit By kanghoryVPN ]-==============="
+echo "===============-[ Script Credit By HORXY TUNNELING ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
