@@ -293,7 +293,7 @@ echo -e "Security  : auto" | tee -a /etc/log-create-user.log
 echo -e "Network   : ws/grpc" | tee -a /etc/log-create-user.log
 echo -e "Path      : /vmess" | tee -a /etc/log-create-user.log
 echo -e "Path      : /worryfree" | tee -a /etc/log-create-user.log
-#echo -e "Path     : /kuota-habis" | tee -a /etc/log-create-user.log
+echo -e "Path     : /kuota-habis" | tee -a /etc/log-create-user.log
 echo -e "SerName   : vmess-grpc" | tee -a /etc/log-create-user.log
 echo -e "----------------------------------" | tee -a /etc/log-create-user.log
 echo -e "Link TLS : ${vmesslink1}" | tee -a /etc/log-create-user.log
