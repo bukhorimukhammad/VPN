@@ -3,7 +3,7 @@
 echo -e "${GREEN}Config Data${NC}"
 
 #wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kanghory/VPN/main/menu.sh"
-wget -q -O /usr/bin/add-ws "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/add-ws-xray.sh"
+wget -q -O /usr/bin/add-ws-xray "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/add-ws-xray.sh"
 wget -q -O /usr/bin/add-ssws "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main//allmenu/add-ssws.sh"
 #wget -q -O /usr/bin/add-socks "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/add-socks.sh"
 wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/add-vless.sh"
@@ -29,7 +29,7 @@ wget -q -O /usr/bin/menun-ssh "https://raw.githubusercontent.com/bukhorimukhamma
 #wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-bckp-telegram.sh"
 wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menu-backup.sh"
 wget -q -O /usr/bin/slowdns "https://raw.githubusercontent.com/bukhorimukhammad/autoscript-ssh-slowdns/main/slowdns.sh"
-wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/usernew-ssh.sh"
+wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/usernew.sh"
 wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/menu.sh"
 wget -q -O /usr/bin/wbm "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/webmin.sh"
 wget -q -O /usr/bin/changer "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/changer.sh"
@@ -43,9 +43,9 @@ wget -q -O /etc/issue.net "https://raw.githubusercontent.com/bukhorimukhammad/VP
 wget -q -O /root/versi "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/versibasic"
 #wget -q -O /usr/bin/updatsc "https://raw.githubusercontent.com/kanghory/VPN/main/update.sh"
 #wget -q -O /usr/bin/backup "https://raw.githubusercontent.com/kanghory/VPN/main/backup.sh"
-wget -q -O /usr/bin/renel "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/renew-vless.sh"
-wget -q -O /usr/bin/cekl "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/cek-log-vless.sh"
-wget -q -O /usr/bin/dell "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/del-vless.sh"
+wget -q -O /usr/bin/renew-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/renew-vless.sh"
+wget -q -O /usr/bin/cek-log-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/cek-log-vless.sh"
+wget -q -O /usr/bin/del-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/del-vless.sh"
 #wget -q -O /usr/bin/ns-menu "https://raw.githubusercontent.com/kanghory/VPN/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh"
 wget https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/backup/set-br.sh
 bash set-br.sh
@@ -60,7 +60,7 @@ chmod +x /usr/bin/addl
 chmod +x /usr/bin/cek-log-vless
 chmod +x /usr/bin/del-vless.sh
 chmod +x /usr/bin/renew-vless
-chmod +x /usr/bin/usernew-ssh
+chmod +x /usr/bin/usernew
 chmod +x /usr/bin/autoreboot
 chmod +x /usr/bin/addhost
 chmod +x /usr/bin/genssl
