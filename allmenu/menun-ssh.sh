@@ -405,7 +405,7 @@ echo ""
 read -p " Select menu : " opt
 echo -e ""
 case $opt in
-1) clear ; usernew-ssh ;;
+1) clear ; usernew ;;
 2) clear ; del ;;
 3) clear ; renew;;
 4) clear ; cek ;;
