@@ -45,7 +45,7 @@ wget -q -O /root/versi "https://raw.githubusercontent.com/bukhorimukhammad/VPN/m
 #wget -q -O /usr/bin/backup "https://raw.githubusercontent.com/kanghory/VPN/main/backup.sh"
 wget -q -O /usr/bin/renew-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/renew-vless.sh"
 wget -q -O /usr/bin/cek-log-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/cek-log-vless.sh"
-wget -q -O /usr/bin/del-vless "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/del-vless.sh"
+wget -q -O /usr/bin/dell "https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/allmenu/dell.sh"
 #wget -q -O /usr/bin/ns-menu "https://raw.githubusercontent.com/kanghory/VPN/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh"
 wget https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/backup/set-br.sh
 bash set-br.sh
@@ -58,7 +58,7 @@ chmod +x /usr/bin/add-vless
 chmod +x /usr/bin/add-tr
 chmod +x /usr/bin/addl
 chmod +x /usr/bin/cek-log-vless
-chmod +x /usr/bin/del-vless.sh
+chmod +x /usr/bin/dell.sh
 chmod +x /usr/bin/renew-vless
 chmod +x /usr/bin/usernew
 chmod +x /usr/bin/autoreboot
