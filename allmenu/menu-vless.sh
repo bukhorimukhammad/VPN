@@ -40,7 +40,7 @@ echo -e ""
 case $opt in
 1) clear ; add-vless ;;
 2) clear ; renel ;;
-3) clear ; deletvless ;;
+3) clear ; dell ;;
 4) clear ; cekl ;;
 0) clear ; menu ;;
 *) clear ; menul ;;
