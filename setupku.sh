@@ -136,7 +136,7 @@ echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━�
 echo -e "$green      Install openvpn              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
-wget -q -O vpn.sh https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/autoscript-ssh-slowdns-main/open-vpn.sh && chmod 777 open-vpn.sh && ./open-vpn.sh
+wget -q -O open-vpn.sh https://raw.githubusercontent.com/bukhorimukhammad/VPN/main/autoscript-ssh-slowdns-main/open-vpn.sh && chmod 777 open-vpn.sh && ./open-vpn.sh
 #cronjob
 #echo "30 * * * * root removelog" >> /etc/crontab
 
